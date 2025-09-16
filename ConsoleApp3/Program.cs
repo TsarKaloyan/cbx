@@ -1,5 +1,5 @@
 ﻿
-amespace ConsoleApp3
+namespace ConsoleApp3
 {
     internal class Program
     {
